@@ -1,0 +1,1001 @@
+Date,Hour,Day,Weather,Temperature,Holiday,Road_Type,Vehicle_Count,Traffic_Level
+2025-09-10,16,Wednesday,Rainy,25.8,Yes,Highway,1093,High
+2025-04-08,21,Tuesday,Rainy,21.8,Yes,Intersection,290,Low
+2025-11-07,23,Friday,Cloudy,26.7,No,Intersection,727,Medium
+2025-11-13,16,Thursday,Clear,21.6,No,Residential,901,Medium
+2025-09-21,14,Sunday,Rainy,44.0,No,Main Road,520,Low
+2025-02-23,0,Sunday,Cloudy,22.3,No,Intersection,481,Low
+2025-10-19,14,Sunday,Clear,32.2,Yes,Main Road,496,Low
+2025-06-17,10,Tuesday,Clear,28.5,No,Intersection,684,Medium
+2025-10-09,11,Thursday,Rainy,19.5,No,Highway,691,Medium
+2025-02-11,7,Tuesday,Clear,37.8,No,Intersection,1086,High
+2025-09-30,19,Tuesday,Clear,32.7,No,Intersection,970,High
+2025-09-28,7,Sunday,Cloudy,34.5,No,Intersection,874,Medium
+2025-01-19,8,Sunday,Rainy,15.6,No,Highway,1109,High
+2025-03-03,1,Monday,Rainy,39.1,No,Main Road,617,Medium
+2025-08-14,11,Thursday,Cloudy,26.5,Yes,Highway,887,Medium
+2025-08-27,6,Wednesday,Clear,32.3,No,Main Road,791,Medium
+2025-04-26,0,Saturday,Clear,20.5,No,Main Road,688,Medium
+2025-02-25,6,Tuesday,Clear,35.9,No,Main Road,793,Medium
+2025-02-03,1,Monday,Cloudy,22.9,No,Main Road,753,Medium
+2025-10-13,2,Monday,Rainy,28.3,No,Residential,256,Low
+2025-07-09,11,Wednesday,Clear,37.2,No,Residential,525,Low
+2025-08-13,3,Wednesday,Clear,19.9,Yes,Intersection,600,Medium
+2025-06-25,4,Wednesday,Clear,22.3,No,Residential,403,Low
+2025-09-21,15,Sunday,Cloudy,29.7,No,Highway,946,Medium
+2025-12-09,23,Tuesday,Clear,29.8,No,Main Road,830,Medium
+2025-05-04,16,Sunday,Rainy,24.6,No,Intersection,749,Medium
+2025-03-04,21,Tuesday,Clear,13.5,No,Intersection,630,Medium
+2025-08-13,17,Wednesday,Cloudy,35.7,No,Highway,1240,High
+2025-08-15,11,Friday,Foggy,32.7,No,Intersection,564,Medium
+2025-04-22,2,Tuesday,Clear,21.8,No,Residential,531,Low
+2025-07-10,8,Thursday,Cloudy,34.3,No,Highway,1179,High
+2025-12-18,13,Thursday,Cloudy,19.1,No,Intersection,733,Medium
+2025-05-25,2,Sunday,Clear,38.4,No,Residential,398,Low
+2025-12-02,6,Tuesday,Clear,24.0,No,Highway,959,High
+2025-09-03,16,Wednesday,Clear,26.4,No,Main Road,1056,High
+2025-09-25,17,Thursday,Clear,28.3,No,Highway,1294,High
+2025-01-08,5,Wednesday,Cloudy,28.6,No,Main Road,606,Medium
+2025-02-26,10,Wednesday,Rainy,31.1,No,Highway,834,Medium
+2025-10-21,17,Tuesday,Rainy,32.2,No,Highway,1092,High
+2025-07-25,7,Friday,Cloudy,23.6,No,Main Road,1048,High
+2025-02-18,1,Tuesday,Clear,21.1,No,Residential,487,Low
+2025-11-23,0,Sunday,Rainy,20.6,No,Highway,601,Medium
+2025-12-31,0,Wednesday,Foggy,27.0,No,Intersection,469,Low
+2025-07-13,14,Sunday,Clear,25.2,No,Main Road,607,Medium
+2025-10-16,17,Thursday,Cloudy,28.8,No,Highway,1207,High
+2025-02-23,4,Sunday,Cloudy,40.6,No,Residential,323,Low
+2025-04-21,11,Monday,Rainy,18.6,No,Highway,916,Medium
+2025-01-09,16,Thursday,Cloudy,21.7,No,Main Road,1185,High
+2025-04-27,9,Sunday,Cloudy,23.5,No,Main Road,1285,High
+2025-06-09,10,Monday,Rainy,31.5,No,Residential,440,Low
+2025-03-17,8,Monday,Cloudy,21.2,No,Intersection,929,Medium
+2025-06-29,21,Sunday,Rainy,23.6,No,Residential,293,Low
+2025-04-22,13,Tuesday,Clear,28.0,Yes,Residential,301,Low
+2025-03-10,10,Monday,Rainy,27.4,No,Intersection,491,Low
+2025-06-10,23,Tuesday,Clear,12.2,No,Main Road,882,Medium
+2025-02-28,17,Friday,Clear,28.9,No,Main Road,1206,High
+2025-05-16,17,Friday,Foggy,27.0,No,Highway,1071,High
+2025-11-27,11,Thursday,Cloudy,42.3,No,Main Road,570,Medium
+2025-11-20,8,Thursday,Clear,31.4,No,Highway,1223,High
+2025-02-12,14,Wednesday,Cloudy,29.6,No,Residential,435,Low
+2025-06-18,13,Wednesday,Cloudy,31.6,No,Main Road,677,Medium
+2025-02-22,3,Saturday,Cloudy,26.9,No,Intersection,589,Medium
+2025-08-15,13,Friday,Clear,39.4,No,Main Road,748,Medium
+2025-02-23,20,Sunday,Cloudy,24.2,No,Main Road,568,Medium
+2025-08-18,5,Monday,Rainy,22.8,No,Main Road,787,Medium
+2025-05-16,18,Friday,Clear,21.7,No,Residential,879,Medium
+2025-05-29,7,Thursday,Clear,7.7,No,Main Road,992,High
+2025-12-16,0,Tuesday,Foggy,9.4,No,Residential,297,Low
+2025-02-13,0,Thursday,Clear,29.3,No,Highway,1096,High
+2025-06-26,19,Thursday,Clear,22.6,Yes,Main Road,911,Medium
+2025-08-19,21,Tuesday,Rainy,31.7,No,Main Road,653,Medium
+2025-04-06,15,Sunday,Rainy,27.0,No,Main Road,553,Medium
+2025-08-11,7,Monday,Cloudy,15.0,No,Main Road,1086,High
+2025-01-06,17,Monday,Clear,29.5,No,Main Road,1078,High
+2025-07-13,19,Sunday,Rainy,36.0,No,Residential,626,Medium
+2025-06-02,10,Monday,Foggy,27.2,No,Main Road,752,Medium
+2025-11-08,15,Saturday,Clear,37.1,No,Main Road,542,Low
+2025-09-01,2,Monday,Cloudy,32.2,No,Intersection,613,Medium
+2025-07-05,3,Saturday,Clear,17.6,No,Main Road,626,Medium
+2025-01-22,15,Wednesday,Clear,20.7,No,Main Road,656,Medium
+2025-09-16,15,Tuesday,Clear,19.9,No,Residential,431,Low
+2025-09-17,22,Wednesday,Clear,31.4,No,Main Road,520,Low
+2025-05-11,21,Sunday,Rainy,27.9,No,Residential,272,Low
+2025-11-06,14,Thursday,Foggy,23.4,Yes,Highway,772,Medium
+2025-10-04,1,Saturday,Rainy,31.6,Yes,Main Road,360,Low
+2025-05-31,23,Saturday,Cloudy,20.7,No,Highway,658,Medium
+2025-12-22,13,Monday,Cloudy,26.0,No,Residential,338,Low
+2025-01-10,23,Friday,Clear,32.1,No,Intersection,723,Medium
+2025-03-26,5,Wednesday,Cloudy,24.2,No,Main Road,913,Medium
+2025-07-11,8,Friday,Clear,26.7,No,Highway,1327,High
+2025-06-22,11,Sunday,Rainy,13.5,No,Main Road,451,Low
+2025-04-28,18,Monday,Clear,30.8,No,Highway,1275,High
+2025-08-30,3,Saturday,Cloudy,29.8,No,Residential,282,Low
+2025-06-09,6,Monday,Clear,20.0,No,Intersection,696,Medium
+2025-07-11,5,Friday,Rainy,18.4,No,Main Road,590,Medium
+2025-02-27,0,Thursday,Rainy,24.5,No,Main Road,770,Medium
+2025-03-13,2,Thursday,Rainy,11.8,No,Residential,207,Low
+2025-09-09,19,Tuesday,Foggy,23.2,No,Main Road,1145,High
+2025-01-02,18,Thursday,Cloudy,30.9,No,Main Road,945,Medium
+2025-12-02,3,Tuesday,Clear,40.3,No,Main Road,817,Medium
+2025-10-13,2,Monday,Clear,29.4,Yes,Main Road,600,Medium
+2025-05-08,8,Thursday,Rainy,16.2,No,Main Road,957,High
+2025-10-09,22,Thursday,Clear,33.0,Yes,Main Road,551,Medium
+2025-04-09,6,Wednesday,Clear,25.1,No,Main Road,781,Medium
+2025-12-12,2,Friday,Clear,32.5,No,Highway,878,Medium
+2025-02-27,4,Thursday,Clear,31.0,No,Main Road,661,Medium
+2025-01-13,4,Monday,Clear,15.5,No,Highway,1012,High
+2025-01-31,19,Friday,Rainy,40.9,No,Main Road,1104,High
+2025-10-13,22,Monday,Rainy,30.0,No,Residential,288,Low
+2025-07-31,9,Thursday,Cloudy,13.4,No,Main Road,1085,High
+2025-04-03,12,Thursday,Clear,29.4,No,Main Road,858,Medium
+2025-09-06,16,Saturday,Clear,24.7,Yes,Residential,417,Low
+2025-07-31,12,Thursday,Rainy,41.2,No,Intersection,727,Medium
+2025-02-22,23,Saturday,Clear,33.5,Yes,Main Road,314,Low
+2025-10-07,7,Tuesday,Foggy,15.2,No,Main Road,804,Medium
+2025-04-30,8,Wednesday,Cloudy,17.4,No,Main Road,986,High
+2025-06-14,14,Saturday,Rainy,30.9,No,Intersection,368,Low
+2025-06-22,6,Sunday,Cloudy,28.6,No,Intersection,332,Low
+2025-04-24,9,Thursday,Clear,38.9,No,Highway,1132,High
+2025-06-12,21,Thursday,Cloudy,37.3,No,Main Road,915,Medium
+2025-07-06,7,Sunday,Clear,35.3,No,Main Road,849,Medium
+2025-05-24,16,Saturday,Rainy,23.6,No,Intersection,727,Medium
+2025-10-30,1,Thursday,Clear,25.4,No,Residential,501,Low
+2025-12-12,18,Friday,Clear,21.7,No,Intersection,1104,High
+2025-11-22,15,Saturday,Clear,20.1,No,Intersection,541,Low
+2025-10-13,13,Monday,Clear,30.5,No,Residential,416,Low
+2025-05-24,23,Saturday,Rainy,34.3,Yes,Residential,109,Low
+2025-05-02,11,Friday,Rainy,26.0,Yes,Main Road,509,Low
+2025-04-17,9,Thursday,Cloudy,17.5,No,Main Road,954,High
+2025-12-01,14,Monday,Clear,21.3,No,Highway,861,Medium
+2025-08-27,1,Wednesday,Rainy,9.6,No,Main Road,496,Low
+2025-05-13,0,Tuesday,Clear,27.0,No,Main Road,726,Medium
+2025-09-11,22,Thursday,Clear,18.0,No,Highway,978,High
+2025-02-07,22,Friday,Foggy,30.7,No,Residential,278,Low
+2025-03-31,9,Monday,Cloudy,18.0,No,Residential,828,Medium
+2025-12-06,12,Saturday,Cloudy,29.8,No,Residential,289,Low
+2025-06-21,3,Saturday,Cloudy,32.1,No,Residential,271,Low
+2025-02-22,17,Saturday,Cloudy,20.2,No,Main Road,989,High
+2025-01-22,22,Wednesday,Clear,23.5,Yes,Intersection,496,Low
+2025-07-21,22,Monday,Clear,31.4,No,Intersection,684,Medium
+2025-01-21,10,Tuesday,Clear,27.3,No,Main Road,729,Medium
+2025-11-04,21,Tuesday,Clear,32.7,No,Highway,976,High
+2025-04-29,9,Tuesday,Clear,26.3,Yes,Intersection,894,Medium
+2025-03-16,14,Sunday,Clear,22.3,No,Main Road,551,Medium
+2025-11-08,10,Saturday,Clear,29.1,No,Intersection,524,Low
+2025-01-25,21,Saturday,Clear,23.9,No,Residential,239,Low
+2025-11-26,17,Wednesday,Clear,32.2,No,Main Road,1262,High
+2025-05-28,14,Wednesday,Clear,29.0,No,Residential,385,Low
+2025-04-21,6,Monday,Clear,17.5,No,Residential,455,Low
+2025-10-11,22,Saturday,Foggy,38.0,No,Main Road,339,Low
+2025-05-06,7,Tuesday,Clear,23.0,No,Intersection,1127,High
+2025-03-07,9,Friday,Cloudy,16.7,Yes,Residential,723,Medium
+2025-01-26,5,Sunday,Rainy,33.7,No,Intersection,413,Low
+2025-06-07,8,Saturday,Clear,32.1,No,Main Road,1041,High
+2025-08-17,17,Sunday,Clear,34.1,No,Main Road,753,Medium
+2025-03-17,23,Monday,Foggy,29.2,No,Highway,982,High
+2025-06-07,3,Saturday,Clear,27.4,No,Main Road,656,Medium
+2025-08-08,20,Friday,Rainy,27.4,No,Residential,465,Low
+2025-03-22,6,Saturday,Clear,34.4,No,Main Road,644,Medium
+2025-08-02,13,Saturday,Foggy,17.8,No,Residential,183,Low
+2025-08-09,12,Saturday,Clear,10.1,No,Intersection,617,Medium
+2025-09-07,6,Sunday,Foggy,32.4,No,Main Road,551,Medium
+2025-12-14,5,Sunday,Cloudy,19.4,No,Main Road,430,Low
+2025-07-09,7,Wednesday,Clear,23.7,Yes,Highway,1100,High
+2025-02-25,19,Tuesday,Clear,36.5,No,Highway,1148,High
+2025-06-13,1,Friday,Clear,29.6,No,Highway,993,High
+2025-03-09,15,Sunday,Cloudy,32.8,No,Main Road,559,Medium
+2025-12-14,4,Sunday,Clear,29.6,No,Main Road,588,Medium
+2025-09-21,4,Sunday,Cloudy,15.2,No,Residential,394,Low
+2025-02-07,17,Friday,Foggy,34.8,No,Residential,572,Medium
+2025-04-24,10,Thursday,Cloudy,17.7,No,Main Road,735,Medium
+2025-09-11,9,Thursday,Foggy,27.1,No,Intersection,849,Medium
+2025-05-15,14,Thursday,Clear,11.6,No,Main Road,853,Medium
+2025-05-20,14,Tuesday,Rainy,32.2,No,Main Road,720,Medium
+2025-11-21,6,Friday,Clear,28.3,No,Main Road,731,Medium
+2025-12-08,17,Monday,Rainy,32.3,No,Highway,1201,High
+2025-05-31,7,Saturday,Cloudy,26.2,Yes,Highway,860,Medium
+2025-05-24,9,Saturday,Rainy,22.0,Yes,Residential,556,Medium
+2025-09-04,15,Thursday,Clear,36.1,No,Main Road,723,Medium
+2025-01-01,7,Wednesday,Cloudy,28.5,No,Highway,1193,High
+2025-09-14,7,Sunday,Clear,30.0,No,Highway,1244,High
+2025-05-27,12,Tuesday,Cloudy,20.1,No,Residential,515,Low
+2025-11-02,21,Sunday,Cloudy,32.2,No,Residential,200,Low
+2025-03-31,0,Monday,Cloudy,27.3,No,Main Road,745,Medium
+2025-11-13,14,Thursday,Cloudy,30.4,No,Main Road,736,Medium
+2025-06-28,22,Saturday,Cloudy,22.1,No,Main Road,488,Low
+2025-02-23,13,Sunday,Cloudy,29.4,Yes,Intersection,396,Low
+2025-05-07,9,Wednesday,Clear,16.8,No,Main Road,1096,High
+2025-10-16,18,Thursday,Cloudy,27.8,No,Residential,852,Medium
+2025-06-14,11,Saturday,Clear,32.7,Yes,Main Road,397,Low
+2025-01-04,9,Saturday,Rainy,21.0,No,Residential,509,Low
+2025-12-26,15,Friday,Clear,24.3,No,Highway,1030,High
+2025-02-13,15,Thursday,Cloudy,10.5,Yes,Residential,383,Low
+2025-10-22,1,Wednesday,Clear,30.2,No,Intersection,664,Medium
+2025-05-06,10,Tuesday,Clear,14.8,No,Residential,467,Low
+2025-09-28,21,Sunday,Clear,25.8,No,Main Road,551,Medium
+2025-06-07,19,Saturday,Foggy,38.3,No,Highway,966,High
+2025-08-08,5,Friday,Clear,22.4,Yes,Intersection,637,Medium
+2025-01-05,19,Sunday,Rainy,27.8,No,Highway,894,Medium
+2025-09-09,18,Tuesday,Clear,39.0,No,Intersection,1036,High
+2025-02-18,11,Tuesday,Clear,35.4,No,Residential,565,Medium
+2025-03-16,1,Sunday,Rainy,27.8,No,Intersection,389,Low
+2025-06-27,9,Friday,Cloudy,13.3,No,Highway,1204,High
+2025-12-21,2,Sunday,Cloudy,20.0,Yes,Main Road,503,Low
+2025-04-03,7,Thursday,Clear,14.7,Yes,Main Road,965,High
+2025-08-23,13,Saturday,Cloudy,33.4,Yes,Residential,80,Low
+2025-04-18,8,Friday,Cloudy,34.6,No,Residential,779,Medium
+2025-01-25,13,Saturday,Cloudy,38.5,No,Highway,701,Medium
+2025-11-21,17,Friday,Cloudy,25.7,No,Main Road,841,Medium
+2025-05-31,11,Saturday,Clear,39.1,No,Main Road,466,Low
+2025-04-16,0,Wednesday,Clear,27.6,No,Main Road,813,Medium
+2025-08-29,11,Friday,Rainy,32.5,Yes,Intersection,375,Low
+2025-08-16,12,Saturday,Clear,24.9,No,Highway,528,Low
+2025-04-05,8,Saturday,Clear,21.9,No,Intersection,1120,High
+2025-02-27,4,Thursday,Cloudy,32.6,No,Highway,919,Medium
+2025-08-08,2,Friday,Cloudy,28.3,No,Residential,462,Low
+2025-08-01,18,Friday,Foggy,31.3,No,Main Road,946,Medium
+2025-02-08,17,Saturday,Clear,35.4,No,Residential,590,Medium
+2025-07-21,14,Monday,Clear,23.5,No,Highway,875,Medium
+2025-02-04,13,Tuesday,Rainy,30.8,No,Residential,532,Low
+2025-02-02,20,Sunday,Rainy,19.8,No,Intersection,466,Low
+2025-11-11,21,Tuesday,Clear,26.8,No,Main Road,837,Medium
+2025-12-01,1,Monday,Cloudy,34.0,No,Main Road,553,Medium
+2025-11-12,20,Wednesday,Clear,18.5,Yes,Main Road,706,Medium
+2025-04-21,8,Monday,Rainy,24.1,No,Main Road,1098,High
+2025-09-28,0,Sunday,Clear,24.9,No,Main Road,578,Medium
+2025-04-09,16,Wednesday,Cloudy,20.8,Yes,Highway,1243,High
+2025-11-19,6,Wednesday,Clear,25.3,No,Highway,805,Medium
+2025-07-11,7,Friday,Clear,27.3,No,Main Road,1001,High
+2025-08-05,22,Tuesday,Rainy,32.6,No,Main Road,495,Low
+2025-07-07,16,Monday,Cloudy,21.1,No,Residential,766,Medium
+2025-11-16,15,Sunday,Clear,37.5,No,Highway,678,Medium
+2025-12-23,6,Tuesday,Clear,40.5,No,Highway,1039,High
+2025-02-21,11,Friday,Cloudy,35.2,No,Main Road,673,Medium
+2025-09-28,23,Sunday,Clear,28.0,No,Intersection,725,Medium
+2025-06-19,13,Thursday,Clear,35.1,No,Highway,930,Medium
+2025-08-28,22,Thursday,Clear,32.3,No,Intersection,683,Medium
+2025-08-11,19,Monday,Clear,36.0,No,Intersection,906,Medium
+2025-04-06,2,Sunday,Clear,28.3,Yes,Intersection,420,Low
+2025-02-15,21,Saturday,Rainy,19.3,No,Main Road,519,Low
+2025-04-17,5,Thursday,Clear,34.6,No,Main Road,786,Medium
+2025-07-06,21,Sunday,Cloudy,24.1,No,Highway,627,Medium
+2025-11-26,7,Wednesday,Clear,23.5,No,Main Road,1118,High
+2025-06-15,17,Sunday,Clear,30.7,No,Intersection,956,High
+2025-06-25,18,Wednesday,Clear,35.7,No,Residential,747,Medium
+2025-01-28,12,Tuesday,Rainy,29.1,No,Residential,290,Low
+2025-05-27,1,Tuesday,Cloudy,22.7,No,Intersection,511,Low
+2025-08-03,7,Sunday,Foggy,22.6,No,Intersection,860,Medium
+2025-12-04,6,Thursday,Clear,28.8,No,Residential,377,Low
+2025-08-15,13,Friday,Cloudy,28.2,No,Main Road,751,Medium
+2025-07-27,5,Sunday,Rainy,30.7,No,Main Road,477,Low
+2025-01-01,2,Wednesday,Cloudy,38.4,No,Residential,369,Low
+2025-08-14,4,Thursday,Cloudy,33.0,No,Residential,412,Low
+2025-01-07,2,Tuesday,Foggy,22.5,No,Main Road,686,Medium
+2025-07-09,18,Wednesday,Cloudy,31.7,No,Main Road,1026,High
+2025-10-31,19,Friday,Cloudy,17.8,No,Highway,1277,High
+2025-04-05,14,Saturday,Clear,31.6,No,Main Road,693,Medium
+2025-01-13,8,Monday,Cloudy,21.3,No,Residential,926,Medium
+2025-04-19,11,Saturday,Cloudy,37.0,No,Intersection,415,Low
+2025-07-08,23,Tuesday,Clear,21.4,No,Main Road,749,Medium
+2025-03-04,3,Tuesday,Cloudy,25.6,No,Main Road,542,Low
+2025-03-27,20,Thursday,Clear,40.1,Yes,Intersection,414,Low
+2025-01-09,4,Thursday,Foggy,27.2,No,Main Road,738,Medium
+2025-05-20,17,Tuesday,Foggy,18.6,No,Main Road,991,High
+2025-11-19,12,Wednesday,Clear,35.9,Yes,Highway,816,Medium
+2025-11-15,7,Saturday,Cloudy,35.0,No,Highway,1073,High
+2025-09-06,11,Saturday,Clear,42.3,No,Main Road,663,Medium
+2025-11-09,7,Sunday,Cloudy,38.8,No,Residential,639,Medium
+2025-07-01,1,Tuesday,Clear,33.7,No,Main Road,757,Medium
+2025-02-05,1,Wednesday,Clear,23.3,No,Residential,558,Medium
+2025-08-11,6,Monday,Clear,33.8,No,Main Road,721,Medium
+2025-10-20,4,Monday,Cloudy,19.3,No,Main Road,886,Medium
+2025-10-01,8,Wednesday,Clear,28.4,No,Main Road,1252,High
+2025-12-04,5,Thursday,Clear,25.2,No,Main Road,783,Medium
+2025-02-04,21,Tuesday,Clear,26.7,No,Highway,878,Medium
+2025-08-03,9,Sunday,Clear,17.7,No,Intersection,896,Medium
+2025-11-14,1,Friday,Rainy,13.8,No,Residential,284,Low
+2025-09-10,23,Wednesday,Foggy,24.6,No,Residential,413,Low
+2025-08-01,5,Friday,Rainy,26.4,No,Main Road,603,Medium
+2025-12-07,14,Sunday,Clear,22.4,No,Main Road,584,Medium
+2025-06-30,6,Monday,Cloudy,13.9,No,Main Road,648,Medium
+2025-11-04,23,Tuesday,Rainy,11.8,Yes,Highway,681,Medium
+2025-09-16,18,Tuesday,Clear,30.6,No,Residential,865,Medium
+2025-12-15,15,Monday,Rainy,28.3,No,Highway,806,Medium
+2025-08-12,0,Tuesday,Cloudy,28.1,No,Intersection,694,Medium
+2025-08-30,15,Saturday,Cloudy,31.0,No,Highway,707,Medium
+2025-06-23,22,Monday,Clear,28.6,No,Intersection,692,Medium
+2025-04-06,1,Sunday,Cloudy,29.2,No,Residential,323,Low
+2025-10-07,16,Tuesday,Clear,24.7,No,Highway,1172,High
+2025-11-27,2,Thursday,Cloudy,23.2,No,Main Road,796,Medium
+2025-03-11,8,Tuesday,Clear,37.8,No,Main Road,1205,High
+2025-12-13,16,Saturday,Clear,37.9,No,Residential,863,Medium
+2025-09-15,17,Monday,Cloudy,25.3,No,Residential,912,Medium
+2025-05-24,7,Saturday,Cloudy,22.0,No,Highway,934,Medium
+2025-10-15,5,Wednesday,Rainy,22.7,No,Intersection,614,Medium
+2025-08-08,4,Friday,Cloudy,36.0,No,Highway,854,Medium
+2025-06-29,20,Sunday,Rainy,17.9,No,Intersection,380,Low
+2025-04-16,1,Wednesday,Clear,23.0,No,Main Road,640,Medium
+2025-04-13,4,Sunday,Cloudy,34.4,No,Main Road,546,Low
+2025-08-31,23,Sunday,Cloudy,23.7,Yes,Highway,642,Medium
+2025-07-11,6,Friday,Cloudy,29.4,No,Intersection,794,Medium
+2025-11-14,6,Friday,Rainy,14.8,No,Residential,357,Low
+2025-01-23,16,Thursday,Rainy,14.6,No,Main Road,902,Medium
+2025-12-21,2,Sunday,Clear,32.7,No,Residential,369,Low
+2025-04-22,2,Tuesday,Rainy,28.0,Yes,Main Road,590,Medium
+2025-12-16,18,Tuesday,Rainy,17.3,Yes,Residential,601,Medium
+2025-01-06,11,Monday,Clear,29.0,No,Highway,898,Medium
+2025-12-05,4,Friday,Clear,29.5,No,Residential,486,Low
+2025-01-06,22,Monday,Clear,17.1,Yes,Residential,379,Low
+2025-06-26,20,Thursday,Clear,32.1,No,Highway,832,Medium
+2025-08-03,18,Sunday,Foggy,26.1,No,Intersection,868,Medium
+2025-04-25,11,Friday,Cloudy,27.7,No,Intersection,666,Medium
+2025-02-22,23,Saturday,Clear,16.3,No,Residential,407,Low
+2025-02-15,12,Saturday,Cloudy,34.8,No,Main Road,631,Medium
+2025-10-17,5,Friday,Foggy,37.2,Yes,Highway,524,Low
+2025-03-30,11,Sunday,Clear,30.1,No,Main Road,614,Medium
+2025-11-21,6,Friday,Cloudy,32.9,No,Residential,434,Low
+2025-01-18,21,Saturday,Clear,30.9,No,Highway,559,Medium
+2025-09-24,19,Wednesday,Cloudy,24.1,Yes,Main Road,955,High
+2025-08-13,16,Wednesday,Clear,25.7,No,Residential,725,Medium
+2025-07-09,6,Wednesday,Clear,25.0,No,Residential,458,Low
+2025-06-20,10,Friday,Cloudy,30.1,No,Main Road,632,Medium
+2025-05-15,6,Thursday,Rainy,33.3,No,Residential,383,Low
+2025-09-09,3,Tuesday,Clear,27.3,No,Residential,597,Medium
+2025-11-09,10,Sunday,Clear,24.5,No,Intersection,622,Medium
+2025-06-12,23,Thursday,Rainy,28.9,No,Residential,392,Low
+2025-04-05,17,Saturday,Clear,21.2,No,Highway,1130,High
+2025-09-03,21,Wednesday,Cloudy,26.7,No,Residential,372,Low
+2025-09-13,16,Saturday,Clear,33.0,No,Residential,874,Medium
+2025-07-26,7,Saturday,Clear,28.0,No,Residential,507,Low
+2025-07-20,12,Sunday,Cloudy,26.7,Yes,Highway,535,Low
+2025-08-18,1,Monday,Cloudy,34.8,No,Residential,285,Low
+2025-10-16,8,Thursday,Clear,24.6,No,Intersection,951,High
+2025-10-02,13,Thursday,Clear,20.0,No,Intersection,654,Medium
+2025-04-13,10,Sunday,Cloudy,25.8,No,Main Road,645,Medium
+2025-01-27,10,Monday,Cloudy,22.1,No,Main Road,661,Medium
+2025-08-28,1,Thursday,Foggy,32.2,No,Main Road,549,Low
+2025-06-01,15,Sunday,Clear,32.4,No,Highway,616,Medium
+2025-01-26,0,Sunday,Clear,31.6,No,Highway,658,Medium
+2025-07-15,22,Tuesday,Rainy,28.2,No,Highway,698,Medium
+2025-04-10,12,Thursday,Cloudy,20.7,No,Highway,755,Medium
+2025-11-01,16,Saturday,Cloudy,34.4,No,Residential,650,Medium
+2025-08-19,20,Tuesday,Clear,19.4,No,Residential,565,Medium
+2025-04-11,18,Friday,Cloudy,30.4,No,Residential,788,Medium
+2025-02-20,0,Thursday,Rainy,24.0,No,Main Road,817,Medium
+2025-12-16,19,Tuesday,Clear,22.8,No,Intersection,1043,High
+2025-09-25,6,Thursday,Clear,33.0,No,Intersection,652,Medium
+2025-01-15,7,Wednesday,Clear,19.5,No,Main Road,1019,High
+2025-02-10,14,Monday,Cloudy,29.3,No,Highway,808,Medium
+2025-11-11,17,Tuesday,Rainy,18.5,No,Main Road,1114,High
+2025-07-17,7,Thursday,Cloudy,33.6,No,Highway,1276,High
+2025-07-27,7,Sunday,Rainy,34.2,No,Main Road,927,Medium
+2025-01-03,5,Friday,Clear,28.5,No,Intersection,760,Medium
+2025-08-06,16,Wednesday,Clear,28.2,No,Highway,1065,High
+2025-12-04,3,Thursday,Clear,15.8,No,Residential,399,Low
+2025-12-25,10,Thursday,Foggy,16.9,No,Residential,318,Low
+2025-10-04,6,Saturday,Cloudy,23.8,No,Residential,206,Low
+2025-11-04,10,Tuesday,Clear,37.4,No,Highway,873,Medium
+2025-02-04,5,Tuesday,Cloudy,33.7,Yes,Residential,269,Low
+2025-08-10,17,Sunday,Clear,29.7,No,Intersection,905,Medium
+2025-11-07,19,Friday,Clear,36.4,Yes,Highway,1129,High
+2025-01-25,6,Saturday,Clear,28.8,No,Highway,865,Medium
+2025-12-12,5,Friday,Cloudy,29.2,No,Highway,862,Medium
+2025-05-06,11,Tuesday,Clear,21.1,No,Residential,491,Low
+2025-01-28,7,Tuesday,Rainy,26.0,No,Main Road,1016,High
+2025-12-11,4,Thursday,Foggy,27.8,No,Highway,593,Medium
+2025-02-23,14,Sunday,Foggy,24.5,Yes,Highway,664,Medium
+2025-08-21,19,Thursday,Rainy,19.6,No,Residential,707,Medium
+2025-04-02,16,Wednesday,Clear,36.9,No,Residential,929,Medium
+2025-12-12,7,Friday,Clear,15.4,No,Intersection,1144,High
+2025-11-27,0,Thursday,Clear,42.5,No,Main Road,716,Medium
+2025-08-08,6,Friday,Clear,27.2,No,Highway,969,High
+2025-08-19,10,Tuesday,Rainy,41.8,No,Main Road,588,Medium
+2025-07-09,13,Wednesday,Foggy,19.9,No,Main Road,732,Medium
+2025-01-21,9,Tuesday,Cloudy,28.8,No,Residential,713,Medium
+2025-12-24,11,Wednesday,Clear,23.0,No,Highway,798,Medium
+2025-10-16,14,Thursday,Clear,40.2,No,Intersection,640,Medium
+2025-09-27,1,Saturday,Clear,22.4,No,Highway,637,Medium
+2025-08-19,19,Tuesday,Clear,33.1,No,Intersection,1250,High
+2025-03-10,2,Monday,Clear,23.4,No,Main Road,636,Medium
+2025-12-15,7,Monday,Cloudy,34.0,No,Residential,840,Medium
+2025-08-19,0,Tuesday,Rainy,32.6,Yes,Main Road,533,Low
+2025-04-08,5,Tuesday,Rainy,25.8,No,Highway,640,Medium
+2025-07-20,18,Sunday,Clear,28.0,No,Residential,546,Low
+2025-09-04,19,Thursday,Clear,35.9,No,Residential,801,Medium
+2025-05-26,22,Monday,Cloudy,28.8,No,Intersection,693,Medium
+2025-09-04,2,Thursday,Foggy,26.6,Yes,Main Road,598,Medium
+2025-10-10,9,Friday,Rainy,28.3,Yes,Main Road,749,Medium
+2025-02-16,0,Sunday,Cloudy,30.6,No,Main Road,628,Medium
+2025-08-24,13,Sunday,Foggy,31.5,No,Residential,251,Low
+2025-08-13,8,Wednesday,Cloudy,22.7,No,Highway,1022,High
+2025-05-11,7,Sunday,Clear,20.7,No,Main Road,1011,High
+2025-01-28,10,Tuesday,Clear,24.5,No,Highway,765,Medium
+2025-02-10,5,Monday,Clear,30.8,No,Residential,440,Low
+2025-02-11,19,Tuesday,Cloudy,30.2,No,Intersection,1091,High
+2025-04-02,9,Wednesday,Clear,18.1,No,Intersection,1036,High
+2025-06-29,6,Sunday,Foggy,23.6,Yes,Residential,157,Low
+2025-05-07,2,Wednesday,Clear,24.7,No,Main Road,696,Medium
+2025-06-22,10,Sunday,Foggy,29.1,No,Main Road,408,Low
+2025-05-19,11,Monday,Clear,38.6,No,Highway,835,Medium
+2025-11-10,5,Monday,Cloudy,35.9,No,Main Road,732,Medium
+2025-10-12,22,Sunday,Clear,30.5,No,Main Road,707,Medium
+2025-06-13,17,Friday,Rainy,30.0,Yes,Intersection,769,Medium
+2025-04-15,1,Tuesday,Rainy,16.9,No,Intersection,690,Medium
+2025-12-31,17,Wednesday,Rainy,18.0,No,Intersection,1013,High
+2025-11-12,9,Wednesday,Rainy,30.7,No,Intersection,967,High
+2025-04-21,12,Monday,Rainy,22.3,No,Residential,241,Low
+2025-10-07,23,Tuesday,Cloudy,27.2,No,Residential,470,Low
+2025-08-30,4,Saturday,Cloudy,28.1,No,Residential,373,Low
+2025-02-02,2,Sunday,Cloudy,33.6,No,Main Road,676,Medium
+2025-02-13,22,Thursday,Rainy,23.1,No,Main Road,637,Medium
+2025-03-08,17,Saturday,Clear,24.7,No,Main Road,911,Medium
+2025-07-26,23,Saturday,Clear,34.4,No,Main Road,467,Low
+2025-10-31,22,Friday,Clear,25.2,No,Main Road,582,Medium
+2025-07-24,2,Thursday,Rainy,25.6,No,Main Road,658,Medium
+2025-03-23,8,Sunday,Cloudy,29.9,No,Intersection,815,Medium
+2025-11-26,10,Wednesday,Clear,20.9,No,Main Road,714,Medium
+2025-07-14,20,Monday,Clear,31.2,Yes,Residential,464,Low
+2025-01-12,6,Sunday,Rainy,31.7,No,Main Road,403,Low
+2025-08-27,18,Wednesday,Clear,29.3,No,Highway,1227,High
+2025-09-15,8,Monday,Clear,18.1,No,Residential,729,Medium
+2025-11-08,12,Saturday,Rainy,20.4,No,Residential,260,Low
+2025-09-07,22,Sunday,Clear,22.4,No,Highway,692,Medium
+2025-04-10,13,Thursday,Cloudy,32.3,No,Main Road,556,Medium
+2025-11-15,8,Saturday,Foggy,23.8,No,Residential,494,Low
+2025-09-30,8,Tuesday,Clear,16.8,No,Intersection,1100,High
+2025-08-25,2,Monday,Rainy,28.9,No,Intersection,489,Low
+2025-02-19,7,Wednesday,Cloudy,23.7,Yes,Highway,956,High
+2025-05-06,1,Tuesday,Clear,25.1,No,Residential,523,Low
+2025-05-27,23,Tuesday,Clear,40.2,No,Intersection,549,Low
+2025-09-11,23,Thursday,Clear,43.9,No,Residential,362,Low
+2025-10-07,4,Tuesday,Clear,27.4,No,Highway,890,Medium
+2025-08-11,10,Monday,Cloudy,35.0,Yes,Residential,290,Low
+2025-07-08,9,Tuesday,Rainy,24.1,No,Highway,1189,High
+2025-04-30,2,Wednesday,Clear,29.6,No,Main Road,695,Medium
+2025-04-10,12,Thursday,Clear,24.5,Yes,Intersection,423,Low
+2025-05-17,14,Saturday,Cloudy,20.9,No,Main Road,466,Low
+2025-04-14,5,Monday,Cloudy,42.8,No,Residential,425,Low
+2025-10-30,1,Thursday,Clear,29.5,Yes,Highway,675,Medium
+2025-06-14,9,Saturday,Clear,36.8,No,Highway,1015,High
+2025-07-03,19,Thursday,Cloudy,17.7,Yes,Residential,757,Medium
+2025-10-11,16,Saturday,Foggy,26.8,No,Main Road,1006,High
+2025-05-14,20,Wednesday,Foggy,27.3,No,Main Road,629,Medium
+2025-04-27,17,Sunday,Rainy,27.7,No,Highway,983,High
+2025-02-05,20,Wednesday,Rainy,26.4,No,Main Road,601,Medium
+2025-05-31,13,Saturday,Rainy,35.5,Yes,Main Road,532,Low
+2025-04-01,8,Tuesday,Foggy,35.9,No,Intersection,986,High
+2025-05-01,22,Thursday,Rainy,28.6,No,Main Road,572,Medium
+2025-07-22,2,Tuesday,Clear,29.9,No,Main Road,627,Medium
+2025-08-21,5,Thursday,Clear,29.4,No,Residential,563,Medium
+2025-02-08,12,Saturday,Clear,19.1,No,Main Road,610,Medium
+2025-10-19,0,Sunday,Rainy,27.0,No,Main Road,395,Low
+2025-12-08,10,Monday,Clear,19.8,No,Residential,511,Low
+2025-10-11,13,Saturday,Foggy,21.1,No,Intersection,306,Low
+2025-05-08,16,Thursday,Foggy,21.0,Yes,Residential,588,Medium
+2025-07-21,23,Monday,Clear,26.3,No,Main Road,687,Medium
+2025-01-14,17,Tuesday,Clear,42.7,No,Main Road,1079,High
+2025-08-15,7,Friday,Clear,14.1,No,Main Road,1177,High
+2025-01-26,20,Sunday,Clear,38.3,No,Main Road,570,Medium
+2025-02-22,23,Saturday,Rainy,22.5,No,Main Road,493,Low
+2025-12-17,13,Wednesday,Foggy,20.7,No,Highway,892,Medium
+2025-09-25,23,Thursday,Clear,38.9,No,Main Road,855,Medium
+2025-05-26,10,Monday,Clear,29.3,No,Main Road,936,Medium
+2025-08-17,3,Sunday,Clear,40.7,No,Intersection,523,Low
+2025-11-18,13,Tuesday,Cloudy,17.1,No,Residential,476,Low
+2025-06-12,4,Thursday,Foggy,41.6,Yes,Residential,267,Low
+2025-02-02,19,Sunday,Cloudy,26.3,No,Main Road,839,Medium
+2025-07-15,0,Tuesday,Rainy,22.9,No,Main Road,821,Medium
+2025-12-03,17,Wednesday,Rainy,20.4,Yes,Residential,637,Medium
+2025-07-11,22,Friday,Clear,33.6,No,Intersection,794,Medium
+2025-02-23,1,Sunday,Foggy,31.7,No,Main Road,491,Low
+2025-01-15,19,Wednesday,Clear,28.1,No,Highway,1200,High
+2025-08-24,13,Sunday,Clear,24.1,No,Highway,540,Low
+2025-07-07,14,Monday,Rainy,26.7,Yes,Main Road,499,Low
+2025-08-21,16,Thursday,Clear,8.9,No,Highway,1463,High
+2025-04-23,20,Wednesday,Foggy,24.9,No,Residential,289,Low
+2025-08-21,21,Thursday,Cloudy,31.6,No,Highway,885,Medium
+2025-04-11,7,Friday,Clear,31.1,No,Residential,797,Medium
+2025-01-07,4,Tuesday,Clear,34.5,No,Intersection,721,Medium
+2025-06-12,20,Thursday,Rainy,24.7,No,Main Road,769,Medium
+2025-05-02,8,Friday,Clear,35.9,No,Highway,1198,High
+2025-03-06,3,Thursday,Cloudy,23.3,No,Main Road,775,Medium
+2025-03-29,1,Saturday,Clear,17.4,No,Residential,351,Low
+2025-07-05,20,Saturday,Cloudy,17.3,Yes,Highway,586,Medium
+2025-11-10,2,Monday,Rainy,22.1,No,Main Road,763,Medium
+2025-05-15,7,Thursday,Clear,18.7,No,Residential,842,Medium
+2025-11-03,21,Monday,Foggy,26.7,No,Main Road,575,Medium
+2025-01-17,20,Friday,Rainy,29.8,No,Main Road,601,Medium
+2025-12-06,10,Saturday,Rainy,36.0,No,Intersection,285,Low
+2025-01-16,17,Thursday,Clear,31.8,No,Main Road,987,High
+2025-04-23,0,Wednesday,Clear,28.4,Yes,Residential,311,Low
+2025-11-27,9,Thursday,Foggy,22.2,No,Residential,722,Medium
+2025-02-20,18,Thursday,Clear,29.2,Yes,Intersection,905,Medium
+2025-05-16,3,Friday,Clear,26.4,No,Residential,492,Low
+2025-09-26,12,Friday,Cloudy,33.0,No,Residential,478,Low
+2025-08-21,21,Thursday,Cloudy,19.1,Yes,Residential,192,Low
+2025-02-27,4,Thursday,Cloudy,30.3,Yes,Main Road,565,Medium
+2025-04-13,23,Sunday,Clear,22.9,No,Highway,724,Medium
+2025-03-02,0,Sunday,Clear,31.9,No,Highway,639,Medium
+2025-05-07,5,Wednesday,Rainy,24.5,Yes,Main Road,656,Medium
+2025-05-24,8,Saturday,Rainy,23.4,No,Highway,1083,High
+2025-04-26,0,Saturday,Clear,30.0,No,Highway,899,Medium
+2025-06-02,18,Monday,Clear,27.6,Yes,Main Road,1063,High
+2025-03-27,15,Thursday,Clear,38.3,No,Highway,1027,High
+2025-12-04,14,Thursday,Rainy,19.4,No,Residential,544,Low
+2025-02-09,4,Sunday,Rainy,32.2,No,Highway,662,Medium
+2025-09-29,20,Monday,Clear,30.1,No,Main Road,775,Medium
+2025-01-20,12,Monday,Cloudy,38.8,No,Main Road,725,Medium
+2025-05-17,16,Saturday,Rainy,37.6,Yes,Highway,744,Medium
+2025-03-24,10,Monday,Clear,17.2,No,Main Road,689,Medium
+2025-09-20,2,Saturday,Clear,38.0,No,Highway,668,Medium
+2025-09-06,12,Saturday,Rainy,21.3,No,Main Road,522,Low
+2025-04-09,23,Wednesday,Rainy,21.3,No,Main Road,732,Medium
+2025-05-11,19,Sunday,Cloudy,26.5,No,Main Road,991,High
+2025-05-27,4,Tuesday,Clear,34.6,No,Residential,427,Low
+2025-07-24,22,Thursday,Foggy,37.1,No,Residential,341,Low
+2025-07-22,16,Tuesday,Rainy,28.5,No,Highway,1096,High
+2025-09-16,22,Tuesday,Clear,24.7,Yes,Main Road,641,Medium
+2025-11-20,11,Thursday,Clear,32.8,No,Residential,392,Low
+2025-10-04,14,Saturday,Clear,28.6,No,Main Road,656,Medium
+2025-02-27,3,Thursday,Cloudy,23.2,No,Intersection,564,Medium
+2025-09-09,23,Tuesday,Clear,37.2,No,Highway,900,Medium
+2025-02-16,14,Sunday,Clear,28.4,No,Highway,707,Medium
+2025-10-29,22,Wednesday,Clear,25.5,Yes,Main Road,612,Medium
+2025-05-25,20,Sunday,Clear,24.4,No,Highway,691,Medium
+2025-02-06,9,Thursday,Clear,42.0,No,Main Road,1132,High
+2025-12-18,20,Thursday,Clear,34.3,No,Highway,837,Medium
+2025-03-22,18,Saturday,Cloudy,33.3,No,Main Road,938,Medium
+2025-12-30,4,Tuesday,Clear,33.0,No,Main Road,639,Medium
+2025-10-28,6,Tuesday,Clear,24.2,No,Intersection,752,Medium
+2025-12-27,12,Saturday,Rainy,17.9,No,Highway,648,Medium
+2025-07-10,0,Thursday,Rainy,18.3,No,Main Road,735,Medium
+2025-11-23,2,Sunday,Clear,23.7,Yes,Residential,131,Low
+2025-12-06,2,Saturday,Clear,22.7,No,Main Road,644,Medium
+2025-06-19,13,Thursday,Cloudy,28.7,No,Residential,546,Low
+2025-10-02,7,Thursday,Foggy,28.8,No,Intersection,927,Medium
+2025-11-23,3,Sunday,Clear,34.2,No,Main Road,570,Medium
+2025-10-31,20,Friday,Clear,34.4,No,Highway,849,Medium
+2025-10-09,17,Thursday,Rainy,26.7,No,Main Road,1032,High
+2025-01-01,11,Wednesday,Rainy,20.5,No,Main Road,658,Medium
+2025-06-21,9,Saturday,Foggy,28.3,Yes,Intersection,755,Medium
+2025-04-09,2,Wednesday,Cloudy,40.4,No,Main Road,636,Medium
+2025-07-06,12,Sunday,Cloudy,44.3,No,Residential,304,Low
+2025-04-10,13,Thursday,Foggy,28.6,No,Main Road,674,Medium
+2025-08-04,7,Monday,Clear,21.4,No,Residential,844,Medium
+2025-05-30,21,Friday,Clear,26.3,Yes,Intersection,617,Medium
+2025-03-06,4,Thursday,Rainy,23.4,No,Residential,279,Low
+2025-07-02,19,Wednesday,Clear,27.7,No,Highway,1058,High
+2025-05-02,19,Friday,Foggy,35.9,No,Highway,1247,High
+2025-05-11,3,Sunday,Rainy,35.5,No,Main Road,367,Low
+2025-03-03,14,Monday,Cloudy,19.8,No,Main Road,804,Medium
+2025-07-23,17,Wednesday,Clear,24.7,No,Highway,1232,High
+2025-07-05,22,Saturday,Foggy,31.5,No,Residential,183,Low
+2025-09-21,17,Sunday,Clear,27.9,No,Intersection,1003,High
+2025-08-02,21,Saturday,Rainy,17.2,No,Main Road,356,Low
+2025-05-06,3,Tuesday,Cloudy,31.1,No,Main Road,946,Medium
+2025-10-26,1,Sunday,Cloudy,24.8,No,Main Road,684,Medium
+2025-06-09,7,Monday,Rainy,21.1,No,Main Road,1031,High
+2025-06-16,4,Monday,Cloudy,17.2,No,Main Road,669,Medium
+2025-09-13,12,Saturday,Clear,34.3,No,Main Road,708,Medium
+2025-04-23,5,Wednesday,Cloudy,34.4,No,Residential,621,Medium
+2025-11-29,13,Saturday,Rainy,23.3,No,Residential,113,Low
+2025-07-14,1,Monday,Clear,26.9,No,Main Road,719,Medium
+2025-06-26,9,Thursday,Clear,31.0,No,Main Road,1094,High
+2025-01-02,0,Thursday,Cloudy,17.5,No,Main Road,597,Medium
+2025-05-09,17,Friday,Clear,43.1,No,Residential,808,Medium
+2025-01-14,18,Tuesday,Cloudy,20.8,No,Intersection,1140,High
+2025-05-08,22,Thursday,Clear,30.1,No,Main Road,707,Medium
+2025-06-30,16,Monday,Cloudy,16.6,Yes,Intersection,777,Medium
+2025-08-08,16,Friday,Cloudy,29.6,No,Intersection,1080,High
+2025-01-29,11,Wednesday,Clear,21.7,No,Highway,880,Medium
+2025-08-15,18,Friday,Clear,34.6,No,Residential,837,Medium
+2025-04-13,19,Sunday,Foggy,29.7,No,Residential,548,Low
+2025-01-14,4,Tuesday,Clear,27.1,No,Residential,495,Low
+2025-10-08,21,Wednesday,Clear,29.9,No,Main Road,758,Medium
+2025-02-03,18,Monday,Rainy,26.7,No,Intersection,1011,High
+2025-02-21,12,Friday,Cloudy,39.1,No,Main Road,664,Medium
+2025-02-16,15,Sunday,Clear,32.6,No,Intersection,524,Low
+2025-05-05,20,Monday,Rainy,24.4,Yes,Residential,161,Low
+2025-05-12,23,Monday,Cloudy,20.7,No,Highway,692,Medium
+2025-04-07,22,Monday,Clear,29.0,No,Highway,756,Medium
+2025-12-10,16,Wednesday,Clear,27.3,No,Main Road,1198,High
+2025-07-03,13,Thursday,Clear,36.2,No,Highway,938,Medium
+2025-10-21,2,Tuesday,Clear,41.5,Yes,Main Road,816,Medium
+2025-05-18,14,Sunday,Rainy,25.9,No,Intersection,310,Low
+2025-11-22,2,Saturday,Clear,35.7,No,Residential,318,Low
+2025-10-04,12,Saturday,Cloudy,41.8,No,Intersection,565,Medium
+2025-12-08,23,Monday,Clear,15.3,No,Highway,947,Medium
+2025-02-24,2,Monday,Rainy,26.0,No,Residential,437,Low
+2025-10-10,21,Friday,Clear,28.2,No,Main Road,773,Medium
+2025-12-18,17,Thursday,Clear,25.7,No,Intersection,1146,High
+2025-01-08,5,Wednesday,Clear,28.6,No,Intersection,739,Medium
+2025-08-17,7,Sunday,Rainy,28.1,No,Intersection,917,Medium
+2025-03-19,14,Wednesday,Clear,25.7,No,Main Road,800,Medium
+2025-03-14,16,Friday,Clear,28.6,Yes,Highway,1011,High
+2025-07-06,4,Sunday,Cloudy,21.5,No,Highway,655,Medium
+2025-04-22,23,Tuesday,Rainy,23.9,No,Intersection,539,Low
+2025-03-15,2,Saturday,Cloudy,17.4,No,Main Road,560,Medium
+2025-08-21,14,Thursday,Clear,37.2,No,Main Road,583,Medium
+2025-12-17,13,Wednesday,Rainy,27.1,No,Main Road,792,Medium
+2025-11-05,4,Wednesday,Clear,10.3,No,Residential,509,Low
+2025-09-14,3,Sunday,Cloudy,20.9,No,Highway,700,Medium
+2025-11-13,11,Thursday,Rainy,25.8,No,Main Road,883,Medium
+2025-10-25,22,Saturday,Rainy,23.6,No,Highway,622,Medium
+2025-06-22,12,Sunday,Foggy,19.6,Yes,Highway,482,Low
+2025-01-06,23,Monday,Cloudy,28.4,No,Intersection,698,Medium
+2025-11-11,20,Tuesday,Cloudy,12.5,No,Highway,854,Medium
+2025-02-17,23,Monday,Cloudy,36.7,No,Residential,441,Low
+2025-12-05,2,Friday,Foggy,37.5,No,Residential,317,Low
+2025-06-23,4,Monday,Rainy,24.1,No,Main Road,706,Medium
+2025-12-25,18,Thursday,Clear,20.2,No,Highway,1305,High
+2025-10-31,9,Friday,Cloudy,33.1,Yes,Main Road,939,Medium
+2025-09-17,1,Wednesday,Cloudy,17.3,No,Residential,522,Low
+2025-07-16,7,Wednesday,Clear,33.6,No,Residential,838,Medium
+2025-03-06,1,Thursday,Clear,25.1,No,Main Road,699,Medium
+2025-12-24,9,Wednesday,Clear,37.9,No,Highway,1198,High
+2025-10-27,9,Monday,Cloudy,25.5,Yes,Highway,964,High
+2025-10-12,11,Sunday,Rainy,29.4,No,Residential,173,Low
+2025-10-02,2,Thursday,Cloudy,37.9,Yes,Main Road,472,Low
+2025-11-25,8,Tuesday,Clear,26.6,No,Main Road,1109,High
+2025-09-30,10,Tuesday,Rainy,22.5,No,Main Road,800,Medium
+2025-10-11,7,Saturday,Foggy,29.0,No,Intersection,728,Medium
+2025-01-12,8,Sunday,Clear,31.6,No,Intersection,955,High
+2025-12-14,4,Sunday,Rainy,25.5,No,Main Road,526,Low
+2025-05-30,0,Friday,Cloudy,31.0,No,Residential,511,Low
+2025-11-19,2,Wednesday,Cloudy,22.7,No,Main Road,675,Medium
+2025-03-30,2,Sunday,Clear,8.6,No,Intersection,466,Low
+2025-04-28,1,Monday,Clear,36.4,No,Main Road,911,Medium
+2025-12-31,5,Wednesday,Cloudy,22.1,No,Main Road,782,Medium
+2025-02-12,22,Wednesday,Cloudy,18.2,No,Highway,765,Medium
+2025-12-16,14,Tuesday,Cloudy,28.5,No,Main Road,843,Medium
+2025-08-10,15,Sunday,Cloudy,43.0,Yes,Residential,160,Low
+2025-04-14,1,Monday,Clear,28.0,No,Residential,490,Low
+2025-09-08,5,Monday,Clear,34.4,No,Residential,566,Medium
+2025-12-21,12,Sunday,Clear,31.6,No,Main Road,570,Medium
+2025-09-12,21,Friday,Foggy,22.6,No,Residential,418,Low
+2025-09-10,2,Wednesday,Clear,20.9,No,Residential,364,Low
+2025-06-01,6,Sunday,Rainy,19.4,No,Intersection,508,Low
+2025-12-12,10,Friday,Clear,19.7,Yes,Intersection,487,Low
+2025-11-14,21,Friday,Clear,19.4,No,Main Road,765,Medium
+2025-05-31,20,Saturday,Rainy,23.1,No,Highway,739,Medium
+2025-04-08,0,Tuesday,Cloudy,36.1,Yes,Intersection,374,Low
+2025-12-30,11,Tuesday,Clear,25.9,No,Highway,850,Medium
+2025-11-18,17,Tuesday,Rainy,25.2,No,Residential,665,Medium
+2025-09-04,22,Thursday,Clear,14.1,No,Intersection,658,Medium
+2025-03-10,21,Monday,Clear,5.0,No,Residential,280,Low
+2025-03-16,18,Sunday,Clear,22.0,No,Residential,522,Low
+2025-08-21,5,Thursday,Clear,26.1,No,Intersection,483,Low
+2025-07-31,11,Thursday,Clear,19.9,Yes,Residential,383,Low
+2025-10-04,20,Saturday,Rainy,26.7,No,Main Road,531,Low
+2025-06-29,10,Sunday,Rainy,28.5,No,Highway,626,Medium
+2025-02-03,21,Monday,Cloudy,28.4,Yes,Intersection,594,Medium
+2025-08-27,21,Wednesday,Clear,37.6,No,Main Road,623,Medium
+2025-12-06,6,Saturday,Clear,18.0,No,Residential,304,Low
+2025-12-01,3,Monday,Cloudy,8.6,No,Main Road,790,Medium
+2025-07-03,21,Thursday,Rainy,31.1,No,Highway,882,Medium
+2025-04-09,5,Wednesday,Clear,36.4,No,Residential,521,Low
+2025-01-04,8,Saturday,Cloudy,30.0,Yes,Residential,653,Medium
+2025-05-14,18,Wednesday,Clear,31.2,No,Residential,864,Medium
+2025-02-08,6,Saturday,Clear,22.8,No,Residential,466,Low
+2025-06-09,15,Monday,Clear,25.0,Yes,Main Road,639,Medium
+2025-01-30,11,Thursday,Cloudy,32.1,Yes,Highway,668,Medium
+2025-05-22,3,Thursday,Clear,42.9,Yes,Residential,252,Low
+2025-01-01,14,Wednesday,Rainy,31.6,No,Highway,684,Medium
+2025-07-20,3,Sunday,Clear,15.0,Yes,Residential,131,Low
+2025-10-21,7,Tuesday,Rainy,33.5,No,Highway,971,High
+2025-05-02,6,Friday,Rainy,30.8,No,Highway,866,Medium
+2025-03-22,9,Saturday,Rainy,33.7,No,Main Road,768,Medium
+2025-02-16,18,Sunday,Foggy,20.2,No,Main Road,999,High
+2025-12-31,14,Wednesday,Rainy,25.5,Yes,Residential,306,Low
+2025-07-21,6,Monday,Rainy,16.8,Yes,Residential,360,Low
+2025-04-19,1,Saturday,Clear,20.2,No,Main Road,648,Medium
+2025-10-30,11,Thursday,Cloudy,21.4,No,Main Road,739,Medium
+2025-02-16,0,Sunday,Foggy,31.0,No,Residential,256,Low
+2025-04-09,14,Wednesday,Cloudy,21.1,No,Highway,775,Medium
+2025-12-12,13,Friday,Clear,21.6,No,Main Road,719,Medium
+2025-01-13,3,Monday,Cloudy,31.5,No,Highway,913,Medium
+2025-12-08,3,Monday,Clear,32.2,No,Main Road,790,Medium
+2025-07-17,23,Thursday,Foggy,26.7,No,Highway,763,Medium
+2025-05-10,19,Saturday,Clear,28.4,No,Main Road,1064,High
+2025-06-09,4,Monday,Clear,10.7,No,Main Road,758,Medium
+2025-04-02,17,Wednesday,Cloudy,23.3,No,Intersection,1136,High
+2025-12-14,3,Sunday,Clear,37.0,No,Highway,720,Medium
+2025-05-02,22,Friday,Cloudy,23.1,No,Intersection,581,Medium
+2025-10-12,7,Sunday,Clear,30.5,No,Residential,602,Medium
+2025-02-20,1,Thursday,Rainy,26.2,No,Highway,776,Medium
+2025-02-17,4,Monday,Clear,26.7,No,Intersection,546,Low
+2025-07-10,4,Thursday,Rainy,34.2,No,Main Road,613,Medium
+2025-09-24,0,Wednesday,Foggy,29.6,No,Highway,747,Medium
+2025-07-14,0,Monday,Clear,27.4,No,Intersection,688,Medium
+2025-09-16,3,Tuesday,Rainy,28.1,No,Residential,424,Low
+2025-09-22,14,Monday,Rainy,31.9,No,Intersection,541,Low
+2025-08-05,5,Tuesday,Clear,26.8,No,Intersection,776,Medium
+2025-08-05,16,Tuesday,Clear,20.7,No,Main Road,1007,High
+2025-01-14,16,Tuesday,Clear,32.0,No,Residential,919,Medium
+2025-03-01,1,Saturday,Foggy,16.3,No,Highway,600,Medium
+2025-10-10,16,Friday,Cloudy,27.0,No,Main Road,1074,High
+2025-06-10,22,Tuesday,Clear,20.9,No,Intersection,769,Medium
+2025-04-18,21,Friday,Clear,36.6,No,Main Road,672,Medium
+2025-02-05,11,Wednesday,Clear,19.3,No,Main Road,608,Medium
+2025-09-09,18,Tuesday,Clear,33.6,Yes,Intersection,935,Medium
+2025-05-21,9,Wednesday,Clear,27.8,No,Main Road,1144,High
+2025-12-31,22,Wednesday,Cloudy,23.8,No,Main Road,705,Medium
+2025-08-12,14,Tuesday,Clear,15.4,No,Residential,475,Low
+2025-01-28,14,Tuesday,Cloudy,25.7,No,Intersection,663,Medium
+2025-10-17,14,Friday,Rainy,34.4,No,Main Road,592,Medium
+2025-05-23,7,Friday,Foggy,15.7,No,Intersection,846,Medium
+2025-08-25,14,Monday,Clear,26.0,No,Intersection,817,Medium
+2025-01-05,6,Sunday,Clear,34.4,No,Main Road,562,Medium
+2025-03-24,3,Monday,Clear,23.6,No,Highway,1009,High
+2025-04-09,21,Wednesday,Cloudy,35.3,No,Main Road,651,Medium
+2025-06-22,12,Sunday,Rainy,19.5,No,Intersection,499,Low
+2025-06-10,1,Tuesday,Clear,21.9,Yes,Main Road,522,Low
+2025-06-03,18,Tuesday,Cloudy,23.9,No,Residential,874,Medium
+2025-01-04,4,Saturday,Cloudy,28.3,No,Highway,790,Medium
+2025-11-03,20,Monday,Clear,31.9,No,Main Road,772,Medium
+2025-02-04,1,Tuesday,Cloudy,30.2,Yes,Intersection,656,Medium
+2025-02-15,10,Saturday,Clear,16.7,No,Intersection,435,Low
+2025-06-17,14,Tuesday,Clear,29.3,No,Highway,907,Medium
+2025-04-06,7,Sunday,Rainy,31.7,Yes,Main Road,717,Medium
+2025-08-31,23,Sunday,Clear,9.2,No,Intersection,510,Low
+2025-02-21,6,Friday,Rainy,18.7,No,Main Road,645,Medium
+2025-06-19,22,Thursday,Cloudy,33.3,No,Residential,639,Medium
+2025-06-10,18,Tuesday,Clear,35.1,No,Highway,1290,High
+2025-11-06,4,Thursday,Cloudy,36.4,No,Main Road,766,Medium
+2025-05-30,10,Friday,Clear,20.7,Yes,Intersection,706,Medium
+2025-08-02,12,Saturday,Clear,42.7,No,Intersection,596,Medium
+2025-11-14,20,Friday,Cloudy,25.5,No,Main Road,692,Medium
+2025-04-23,11,Wednesday,Rainy,30.2,No,Residential,315,Low
+2025-08-17,7,Sunday,Clear,37.5,No,Main Road,908,Medium
+2025-07-18,1,Friday,Clear,30.5,No,Residential,455,Low
+2025-01-05,4,Sunday,Cloudy,21.1,No,Main Road,616,Medium
+2025-02-11,12,Tuesday,Clear,18.2,No,Residential,407,Low
+2025-02-08,12,Saturday,Clear,29.1,No,Highway,653,Medium
+2025-01-28,19,Tuesday,Foggy,35.5,Yes,Highway,895,Medium
+2025-06-04,23,Wednesday,Foggy,25.7,No,Highway,721,Medium
+2025-03-19,1,Wednesday,Clear,18.1,No,Residential,583,Medium
+2025-08-06,4,Wednesday,Foggy,28.0,No,Intersection,616,Medium
+2025-02-08,2,Saturday,Clear,29.5,No,Intersection,639,Medium
+2025-02-27,10,Thursday,Clear,33.3,Yes,Main Road,571,Medium
+2025-03-07,15,Friday,Rainy,36.6,No,Intersection,543,Low
+2025-09-16,10,Tuesday,Foggy,18.4,No,Main Road,669,Medium
+2025-10-10,16,Friday,Cloudy,22.9,No,Residential,875,Medium
+2025-10-27,5,Monday,Foggy,28.1,Yes,Residential,249,Low
+2025-07-17,16,Thursday,Rainy,26.6,No,Highway,1072,High
+2025-08-30,8,Saturday,Cloudy,27.9,No,Highway,1102,High
+2025-05-25,2,Sunday,Cloudy,29.3,No,Main Road,480,Low
+2025-05-25,0,Sunday,Foggy,26.1,No,Main Road,285,Low
+2025-05-13,20,Tuesday,Clear,34.3,No,Highway,873,Medium
+2025-03-09,10,Sunday,Cloudy,20.0,No,Intersection,461,Low
+2025-10-28,12,Tuesday,Foggy,22.2,Yes,Intersection,514,Low
+2025-09-14,8,Sunday,Cloudy,23.9,No,Intersection,599,Medium
+2025-10-15,13,Wednesday,Clear,27.7,No,Intersection,758,Medium
+2025-05-22,9,Thursday,Clear,25.5,No,Residential,810,Medium
+2025-04-04,3,Friday,Clear,27.7,No,Residential,565,Medium
+2025-04-11,12,Friday,Clear,18.1,No,Intersection,827,Medium
+2025-02-06,6,Thursday,Clear,18.0,Yes,Highway,746,Medium
+2025-08-23,13,Saturday,Rainy,34.8,No,Main Road,554,Medium
+2025-10-06,2,Monday,Clear,27.9,No,Main Road,681,Medium
+2025-01-04,22,Saturday,Rainy,17.6,No,Main Road,485,Low
+2025-11-24,12,Monday,Cloudy,37.6,No,Intersection,565,Medium
+2025-03-31,12,Monday,Clear,39.0,Yes,Intersection,546,Low
+2025-05-24,18,Saturday,Clear,26.3,No,Intersection,850,Medium
+2025-02-17,17,Monday,Rainy,26.9,Yes,Residential,639,Medium
+2025-05-21,21,Wednesday,Clear,36.5,No,Residential,488,Low
+2025-01-20,12,Monday,Cloudy,14.5,No,Main Road,929,Medium
+2025-06-19,11,Thursday,Clear,16.9,No,Main Road,603,Medium
+2025-11-22,18,Saturday,Clear,25.2,No,Residential,815,Medium
+2025-01-05,17,Sunday,Foggy,25.3,No,Residential,705,Medium
+2025-04-07,23,Monday,Cloudy,24.0,No,Residential,451,Low
+2025-03-16,4,Sunday,Clear,14.7,No,Main Road,653,Medium
+2025-05-23,15,Friday,Rainy,20.2,No,Main Road,696,Medium
+2025-08-14,9,Thursday,Clear,35.8,No,Highway,1243,High
+2025-01-01,14,Wednesday,Rainy,21.8,No,Intersection,669,Medium
+2025-04-11,22,Friday,Clear,38.7,No,Residential,449,Low
+2025-12-29,8,Monday,Cloudy,38.4,No,Highway,1250,High
+2025-09-10,16,Wednesday,Cloudy,36.3,No,Residential,824,Medium
+2025-12-26,1,Friday,Clear,36.6,No,Residential,314,Low
+2025-09-09,9,Tuesday,Clear,20.9,No,Main Road,1013,High
+2025-05-13,14,Tuesday,Rainy,26.5,No,Main Road,811,Medium
+2025-03-11,8,Tuesday,Clear,25.9,Yes,Main Road,934,Medium
+2025-06-16,10,Monday,Rainy,25.5,Yes,Main Road,449,Low
+2025-04-23,7,Wednesday,Clear,29.2,No,Intersection,1152,High
+2025-12-21,9,Sunday,Rainy,21.4,No,Highway,990,High
+2025-11-17,20,Monday,Clear,33.5,No,Main Road,779,Medium
+2025-05-03,21,Saturday,Clear,38.4,No,Residential,447,Low
+2025-04-05,0,Saturday,Clear,27.1,No,Residential,356,Low
+2025-02-03,11,Monday,Rainy,15.1,No,Main Road,610,Medium
+2025-08-26,7,Tuesday,Clear,28.8,No,Residential,613,Medium
+2025-09-10,7,Wednesday,Clear,24.8,No,Highway,1186,High
+2025-06-27,13,Friday,Rainy,31.9,Yes,Intersection,614,Medium
+2025-06-22,11,Sunday,Rainy,28.1,No,Residential,209,Low
+2025-01-20,7,Monday,Rainy,23.1,No,Highway,1100,High
+2025-04-21,18,Monday,Clear,35.6,Yes,Intersection,1043,High
+2025-04-29,17,Tuesday,Cloudy,44.9,No,Residential,829,Medium
+2025-11-17,16,Monday,Clear,30.0,No,Main Road,1079,High
+2025-03-19,18,Wednesday,Clear,22.8,No,Main Road,1057,High
+2025-04-16,7,Wednesday,Cloudy,27.8,No,Highway,1345,High
+2025-05-28,10,Wednesday,Rainy,35.6,Yes,Main Road,582,Medium
+2025-01-22,5,Wednesday,Cloudy,21.6,No,Main Road,762,Medium
+2025-08-05,16,Tuesday,Rainy,26.1,No,Intersection,976,High
+2025-09-04,20,Thursday,Rainy,29.5,No,Residential,384,Low
+2025-05-24,4,Saturday,Clear,29.1,No,Residential,528,Low
+2025-12-01,2,Monday,Clear,26.6,No,Residential,392,Low
+2025-02-22,18,Saturday,Rainy,19.9,No,Residential,573,Medium
+2025-12-12,13,Friday,Clear,29.1,Yes,Intersection,498,Low
+2025-12-23,6,Tuesday,Cloudy,27.9,Yes,Highway,566,Medium
+2025-06-19,16,Thursday,Cloudy,28.8,No,Highway,1278,High
+2025-08-03,12,Sunday,Rainy,27.8,No,Main Road,404,Low
+2025-06-24,8,Tuesday,Rainy,27.7,No,Intersection,970,High
+2025-12-23,2,Tuesday,Cloudy,18.7,No,Intersection,586,Medium
+2025-05-08,13,Thursday,Clear,16.0,No,Main Road,841,Medium
+2025-05-14,5,Wednesday,Rainy,24.7,Yes,Main Road,446,Low
+2025-06-03,11,Tuesday,Clear,28.7,No,Highway,992,High
+2025-10-28,8,Tuesday,Clear,35.2,No,Residential,948,Medium
+2025-11-22,10,Saturday,Cloudy,24.2,No,Intersection,557,Medium
+2025-10-04,4,Saturday,Cloudy,29.2,No,Highway,575,Medium
+2025-12-08,11,Monday,Cloudy,22.3,No,Main Road,799,Medium
+2025-12-11,5,Thursday,Clear,26.7,No,Residential,445,Low
+2025-08-05,17,Tuesday,Cloudy,26.0,Yes,Intersection,906,Medium
+2025-05-28,17,Wednesday,Cloudy,28.6,No,Main Road,1043,High
+2025-07-16,17,Wednesday,Clear,29.0,No,Main Road,1262,High
+2025-08-11,3,Monday,Rainy,21.2,No,Highway,851,Medium
+2025-06-13,10,Friday,Rainy,21.1,No,Intersection,502,Low
+2025-12-15,11,Monday,Clear,20.4,No,Highway,853,Medium
+2025-07-02,19,Wednesday,Clear,39.3,No,Main Road,966,High
+2025-08-04,9,Monday,Foggy,40.3,No,Highway,988,High
+2025-01-02,6,Thursday,Clear,25.8,Yes,Main Road,617,Medium
+2025-08-03,21,Sunday,Clear,21.0,No,Main Road,548,Low
+2025-10-13,1,Monday,Rainy,31.0,Yes,Highway,593,Medium
+2025-03-04,3,Tuesday,Rainy,36.7,No,Intersection,580,Medium
+2025-06-03,8,Tuesday,Clear,34.9,No,Main Road,1022,High
+2025-01-01,12,Wednesday,Clear,25.6,No,Highway,881,Medium
+2025-08-06,16,Wednesday,Clear,24.8,No,Highway,1148,High
+2025-03-13,17,Thursday,Clear,27.6,No,Highway,1282,High
+2025-06-11,14,Wednesday,Clear,21.4,No,Residential,413,Low
+2025-08-08,14,Friday,Cloudy,31.3,No,Residential,361,Low
+2025-09-21,22,Sunday,Cloudy,9.2,No,Main Road,526,Low
+2025-07-13,2,Sunday,Foggy,18.9,No,Intersection,494,Low
+2025-04-15,0,Tuesday,Clear,28.1,No,Intersection,607,Medium
+2025-04-06,11,Sunday,Clear,41.3,No,Main Road,702,Medium
+2025-08-12,4,Tuesday,Rainy,14.3,No,Main Road,660,Medium
+2025-08-12,12,Tuesday,Cloudy,18.4,No,Intersection,601,Medium
+2025-12-10,22,Wednesday,Rainy,26.6,No,Intersection,464,Low
+2025-02-20,13,Thursday,Foggy,14.6,No,Intersection,578,Medium
+2025-06-26,3,Thursday,Clear,27.3,No,Main Road,891,Medium
+2025-07-25,23,Friday,Clear,41.7,No,Main Road,823,Medium
+2025-06-19,7,Thursday,Rainy,6.5,No,Intersection,984,High
+2025-06-09,9,Monday,Clear,24.4,No,Intersection,1161,High
+2025-10-01,13,Wednesday,Clear,16.8,No,Main Road,702,Medium
+2025-07-07,20,Monday,Cloudy,20.4,No,Residential,447,Low
+2025-09-12,16,Friday,Rainy,35.1,No,Main Road,1017,High
+2025-05-02,16,Friday,Rainy,26.5,No,Residential,810,Medium
+2025-04-23,16,Wednesday,Clear,32.2,No,Residential,972,High
+2025-01-15,5,Wednesday,Clear,22.7,No,Intersection,867,Medium
+2025-08-24,16,Sunday,Cloudy,28.5,No,Residential,534,Low
+2025-07-26,6,Saturday,Cloudy,38.3,No,Main Road,788,Medium
+2025-07-17,12,Thursday,Clear,31.5,No,Residential,401,Low
+2025-06-29,20,Sunday,Cloudy,37.5,No,Main Road,540,Low
+2025-09-25,1,Thursday,Rainy,19.3,No,Residential,348,Low
+2025-01-13,20,Monday,Cloudy,19.4,No,Main Road,651,Medium
+2025-04-09,13,Wednesday,Clear,28.1,No,Main Road,803,Medium
+2025-09-19,3,Friday,Cloudy,26.8,No,Main Road,637,Medium
+2025-11-01,23,Saturday,Clear,29.2,No,Residential,190,Low
+2025-10-15,1,Wednesday,Clear,28.5,No,Main Road,851,Medium
+2025-05-13,21,Tuesday,Rainy,32.4,No,Residential,356,Low
+2025-10-07,19,Tuesday,Cloudy,24.3,No,Main Road,1045,High
+2025-03-04,14,Tuesday,Clear,33.7,No,Highway,959,High
+2025-12-26,13,Friday,Clear,21.0,No,Main Road,782,Medium
+2025-04-04,5,Friday,Cloudy,25.5,No,Main Road,730,Medium
+2025-12-27,23,Saturday,Clear,21.5,No,Highway,897,Medium
+2025-01-05,10,Sunday,Cloudy,37.1,No,Main Road,511,Low
+2025-07-22,3,Tuesday,Cloudy,20.9,No,Residential,546,Low
+2025-10-29,23,Wednesday,Clear,30.0,No,Intersection,809,Medium
+2025-03-02,12,Sunday,Foggy,28.2,No,Main Road,400,Low
+2025-02-05,11,Wednesday,Rainy,34.6,No,Main Road,545,Low
+2025-02-23,5,Sunday,Clear,41.2,No,Highway,631,Medium
+2025-12-06,6,Saturday,Rainy,24.1,No,Residential,266,Low
+2025-06-01,1,Sunday,Clear,25.1,No,Residential,365,Low
+2025-03-27,4,Thursday,Cloudy,35.1,Yes,Intersection,619,Medium
+2025-11-16,0,Sunday,Cloudy,15.7,No,Main Road,507,Low
+2025-05-27,18,Tuesday,Clear,21.5,No,Main Road,1132,High
+2025-11-12,5,Wednesday,Clear,32.0,No,Intersection,804,Medium
+2025-08-22,8,Friday,Clear,38.2,No,Intersection,985,High
+2025-04-05,16,Saturday,Clear,11.5,No,Intersection,987,High
+2025-06-21,20,Saturday,Cloudy,33.9,No,Residential,239,Low
+2025-11-02,0,Sunday,Cloudy,36.9,No,Residential,325,Low
+2025-09-22,18,Monday,Cloudy,28.4,No,Intersection,1112,High
+2025-09-10,19,Wednesday,Cloudy,28.1,Yes,Highway,979,High
+2025-02-06,9,Thursday,Clear,26.7,No,Highway,1342,High
+2025-02-22,19,Saturday,Rainy,37.8,No,Residential,600,Medium
+2025-12-31,18,Wednesday,Clear,32.7,No,Residential,796,Medium
+2025-05-26,14,Monday,Clear,28.9,No,Intersection,635,Medium
+2025-07-27,20,Sunday,Clear,29.3,No,Highway,743,Medium
+2025-07-11,1,Friday,Clear,26.9,No,Main Road,740,Medium
+2025-12-26,18,Friday,Cloudy,30.1,No,Highway,1273,High
+2025-08-27,21,Wednesday,Clear,36.3,Yes,Main Road,705,Medium
+2025-09-04,15,Thursday,Cloudy,30.2,No,Highway,804,Medium
+2025-09-29,16,Monday,Cloudy,24.4,No,Intersection,1004,High
+2025-10-20,9,Monday,Rainy,36.4,Yes,Residential,746,Medium
+2025-09-19,20,Friday,Foggy,25.2,No,Highway,764,Medium
+2025-05-01,15,Thursday,Rainy,16.6,No,Residential,492,Low
+2025-01-09,0,Thursday,Rainy,32.1,No,Intersection,890,Medium
+2025-04-11,10,Friday,Clear,27.8,No,Highway,941,Medium
+2025-03-03,21,Monday,Rainy,23.6,No,Main Road,642,Medium
+2025-10-06,0,Monday,Clear,28.2,No,Highway,837,Medium
+2025-12-07,3,Sunday,Clear,9.3,No,Intersection,581,Medium
+2025-11-10,7,Monday,Foggy,26.4,No,Highway,1208,High
+2025-05-25,13,Sunday,Clear,29.5,No,Intersection,572,Medium
+2025-02-08,8,Saturday,Cloudy,27.9,No,Main Road,1064,High
+2025-08-28,13,Thursday,Rainy,30.3,No,Main Road,745,Medium
+2025-11-02,19,Sunday,Clear,36.2,No,Residential,588,Medium
+2025-10-16,9,Thursday,Clear,18.9,Yes,Main Road,860,Medium
+2025-07-06,15,Sunday,Cloudy,37.8,No,Main Road,504,Low
+2025-12-20,20,Saturday,Cloudy,23.3,Yes,Intersection,346,Low
+2025-12-15,2,Monday,Clear,22.5,No,Main Road,843,Medium
+2025-11-16,18,Sunday,Rainy,37.5,No,Main Road,773,Medium
+2025-04-28,21,Monday,Clear,28.5,No,Highway,882,Medium
+2025-03-03,17,Monday,Rainy,36.1,No,Residential,776,Medium
+2025-10-23,18,Thursday,Clear,27.6,No,Main Road,995,High
+2025-04-23,23,Wednesday,Clear,22.7,No,Residential,408,Low
+2025-07-09,10,Wednesday,Cloudy,19.2,No,Intersection,661,Medium
+2025-08-10,19,Sunday,Cloudy,16.7,No,Intersection,841,Medium
+2025-06-28,11,Saturday,Clear,21.9,No,Highway,724,Medium
+2025-05-04,10,Sunday,Rainy,28.7,No,Intersection,316,Low
+2025-08-25,16,Monday,Foggy,24.5,No,Main Road,791,Medium
+2025-06-04,3,Wednesday,Cloudy,45.0,No,Main Road,643,Medium
+2025-06-06,0,Friday,Cloudy,38.4,No,Residential,419,Low
+2025-12-15,13,Monday,Clear,31.4,No,Intersection,672,Medium
+2025-08-26,5,Tuesday,Cloudy,28.7,No,Intersection,705,Medium
+2025-12-08,4,Monday,Cloudy,17.3,No,Main Road,881,Medium
+2025-04-26,13,Saturday,Rainy,38.1,No,Residential,280,Low
+2025-09-08,21,Monday,Clear,37.3,Yes,Main Road,619,Medium
+2025-09-09,0,Tuesday,Cloudy,37.4,No,Highway,861,Medium
+2025-12-26,7,Friday,Rainy,28.6,No,Intersection,914,Medium
+2025-10-10,19,Friday,Clear,22.0,Yes,Residential,686,Medium
+2025-03-17,8,Monday,Cloudy,33.8,No,Residential,783,Medium
+2025-05-23,12,Friday,Clear,19.2,No,Intersection,685,Medium
+2025-10-31,22,Friday,Clear,32.5,No,Main Road,855,Medium
+2025-02-13,21,Thursday,Clear,28.5,No,Intersection,665,Medium
+2025-02-20,7,Thursday,Cloudy,25.7,No,Main Road,1159,High
+2025-03-31,7,Monday,Clear,44.4,No,Main Road,1007,High
+2025-11-13,1,Thursday,Clear,17.1,No,Main Road,660,Medium
+2025-05-06,19,Tuesday,Clear,30.1,No,Intersection,975,High
+2025-01-10,20,Friday,Cloudy,19.7,No,Intersection,681,Medium
+2025-05-13,18,Tuesday,Clear,9.0,No,Intersection,1128,High
+2025-06-01,16,Sunday,Clear,26.2,No,Highway,1196,High
+2025-10-08,21,Wednesday,Cloudy,33.3,No,Main Road,683,Medium
+2025-05-27,18,Tuesday,Cloudy,22.6,No,Residential,776,Medium
+2025-01-19,0,Sunday,Clear,27.5,No,Main Road,637,Medium
+2025-01-08,12,Wednesday,Cloudy,34.4,No,Main Road,722,Medium
+2025-03-25,3,Tuesday,Clear,23.5,No,Intersection,718,Medium
+2025-06-05,3,Thursday,Rainy,26.7,No,Intersection,547,Low
+2025-06-01,19,Sunday,Rainy,33.3,No,Residential,625,Medium
+2025-08-17,20,Sunday,Clear,38.5,Yes,Main Road,318,Low
+2025-02-10,17,Monday,Rainy,29.1,No,Main Road,1052,High
+2025-12-07,14,Sunday,Foggy,29.5,No,Intersection,235,Low
+2025-01-12,12,Sunday,Clear,22.4,No,Intersection,537,Low
+2025-09-25,1,Thursday,Clear,25.3,No,Main Road,745,Medium
+2025-02-04,7,Tuesday,Foggy,31.6,No,Main Road,1020,High
+2025-08-06,11,Wednesday,Clear,34.5,No,Residential,389,Low
+2025-09-30,23,Tuesday,Clear,31.2,No,Main Road,864,Medium
+2025-08-06,23,Wednesday,Rainy,33.2,No,Main Road,627,Medium
+2025-01-23,2,Thursday,Foggy,25.0,No,Main Road,577,Medium
+2025-05-09,3,Friday,Clear,31.3,No,Highway,873,Medium
+2025-07-11,10,Friday,Clear,27.9,No,Intersection,799,Medium
+2025-02-20,14,Thursday,Cloudy,32.4,No,Intersection,658,Medium
+2025-10-05,14,Sunday,Cloudy,23.8,Yes,Residential,221,Low
+2025-02-14,8,Friday,Clear,37.4,No,Intersection,1080,High
+2025-06-01,14,Sunday,Cloudy,30.6,No,Residential,217,Low
+2025-11-07,11,Friday,Foggy,31.1,No,Intersection,634,Medium
+2025-06-09,8,Monday,Clear,24.0,No,Intersection,1007,High
+2025-09-21,6,Sunday,Clear,23.7,No,Highway,877,Medium
+2025-03-22,16,Saturday,Clear,24.9,No,Main Road,1068,High
+2025-03-01,21,Saturday,Cloudy,27.9,No,Highway,656,Medium
+2025-09-07,8,Sunday,Clear,23.1,No,Highway,1061,High
+2025-04-09,18,Wednesday,Clear,36.2,No,Residential,739,Medium
+2025-04-28,22,Monday,Clear,37.5,No,Residential,364,Low
+2025-08-26,18,Tuesday,Clear,22.1,No,Highway,1294,High
+2025-10-30,17,Thursday,Clear,37.3,No,Residential,871,Medium
+2025-09-12,19,Friday,Rainy,35.5,No,Main Road,973,High
+2025-03-21,12,Friday,Foggy,24.1,No,Main Road,549,Low
+2025-12-03,1,Wednesday,Clear,26.6,No,Main Road,686,Medium
+2025-05-09,0,Friday,Clear,38.5,No,Residential,475,Low
+2025-02-08,5,Saturday,Foggy,32.5,No,Residential,193,Low
+2025-08-05,9,Tuesday,Cloudy,35.0,No,Intersection,941,Medium
+2025-03-10,16,Monday,Clear,24.4,No,Highway,1260,High
+2025-06-21,11,Saturday,Clear,27.1,Yes,Main Road,531,Low
+2025-05-10,21,Saturday,Clear,27.0,No,Intersection,533,Low
+2025-07-04,16,Friday,Clear,13.8,No,Main Road,1068,High
+2025-12-26,11,Friday,Clear,21.0,No,Residential,468,Low
+2025-01-29,16,Wednesday,Cloudy,24.2,No,Highway,1145,High
+2025-10-21,8,Tuesday,Rainy,24.2,No,Intersection,851,Medium
+2025-08-16,3,Saturday,Rainy,32.3,No,Main Road,555,Medium
+2025-06-11,14,Wednesday,Rainy,24.5,No,Highway,1021,High
+2025-09-18,0,Thursday,Foggy,25.4,No,Main Road,716,Medium
+2025-08-21,22,Thursday,Clear,33.7,Yes,Highway,828,Medium
+2025-09-06,13,Saturday,Cloudy,34.4,No,Highway,852,Medium
+2025-04-02,16,Wednesday,Foggy,38.0,Yes,Intersection,869,Medium
+2025-05-19,1,Monday,Cloudy,45.0,No,Residential,440,Low
